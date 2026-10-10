@@ -1,0 +1,15 @@
+## This file must *NOT* be checked into Version Control Systems,
+# as it contains information specific to your local configuration.
+#
+# Location of the Android SDK. For example:
+# sdk.dir=/Users/username/Library/Android/sdk
+# OR
+# sdk.dir=C\:\\Users\\username\\AppData\\Local\\Android\\sdk
+
+sdk.dir=YOUR_ANDROID_SDK_PATH
+
+# Optional service credentials. Leave blank to disable the corresponding integration.
+LASTFM_API_KEY=
+LASTFM_SECRET=
+GH_CLIENT_ID=
+GH_CLIENT_SECRET=
